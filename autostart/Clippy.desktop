@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Clippy
+Comment=Local AI desktop assistant (LM Studio)
+Exec=python3 @CLIPPY_DIR@/clippy.py
+Icon=dialog-information
+Terminal=false
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel
